@@ -9,7 +9,7 @@ In this course, Kumaran Ponnambalam discusses the concepts and building blocks f
 
 Agentic AI for Developers: Concepts and Application for Enterprises":
 
-**Chapter: Introduction
+##Chapter: Introduction
 
 Building your own AI agent
 Course coverage and prerequisites
