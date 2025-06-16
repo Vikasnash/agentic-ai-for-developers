@@ -7,12 +7,8 @@ Agentic AI is at the forefront of the next wave of technological advancements in
  
 In this course, Kumaran Ponnambalam discusses the concepts and building blocks for agentic AI. He explores how enterprise use cases can be built with a few examples, and reviews responsible AI considerations for agentic AI.
 
-### Instructor
-
-Kumaran Ponnambalam
-
-Working with data for 20+ years
-
+Topics Covered in this course
+1. 
                             
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kumaran-ponnambalam?u=104).
 
