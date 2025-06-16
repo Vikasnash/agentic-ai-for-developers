@@ -11,7 +11,7 @@ Agentic AI for Developers: Concepts and Application for Enterprises":
 
 
 ## Introduction
-AI Agent
+- AI Agent
 
 ## Chapter 1: Introduction to Agentic AI
 - Generative AI (GenAI)
@@ -20,63 +20,60 @@ AI Agent
 - Technologies for Agentic AI
 
 ## Chapter 2: An Agentic AI System
-Components of Agentic AI System
-Goals in Agentic AI
-Planner
-Orchestrator
-Executor
-Tools in Agentic AI
-GenAI Models
-Memory in Agentic AI
+- Components of Agentic AI System
+- Goals in Agentic AI
+- Planner
+- Orchestrator
+- Executor
+- Tools in Agentic AI
+- GenAI Models
+- Memory in Agentic AI
 
 ## Chapter 3: Your First Agentic AI Application
-Basic AI Agent
-Router AI Agent Design
-Indexes for Router
-Agentic Router
-Routing with Agentic AI
+- Basic AI Agent
+- Router AI Agent Design
+- Indexes for Router
+- Agentic Router
+- Routing with Agentic AI - Long Term & Short Term
 
 ## Chapter 4: Design Patterns for Agentic AI
-Reflection Pattern
-Router Pattern
-Tool Use Pattern
-Planning Pattern
-Multi-Agent Pattern
+- Reflection Pattern
+- Router Pattern
+- Tool Use Pattern
+- Planning Pattern
+- Multi-Agent Pattern
 
 ## Chapter 5: Enterprise Use Cases for Agentic AI
-AI Agents in Finance
-Document Workflows
-Loan Verification
-Payroll Reconciliation
-Tax Filing
-Mutual Fund Valuations
-Identity Verification Tool
-Credit History Verification Tool
-Fraud Detection Tool
-Verifier LLM (Large Language Model)
+- AI Agents in Finance
+- Document Workflows
+- Loan Verification
+- Payroll Reconciliation
+- Tax Filing
+- Mutual Fund Valuations
+- Identity Verification Tool
+- Credit History Verification Tool
+- Fraud Detection Tool
+- Verifier LLM (Large Language Model)
 
-AI Agents in Customer Care
-AI Agents in Insurance
-AI Agents in Human Resources
-AI Agents in Project Management
+- AI Agents in Customer Care
+- AI Agents in Insurance
+- AI Agents in Human Resources
+- AI Agents in Project Management
 
 ## Chapter 6: Implementing a Customer Service AI Agent
-Customer Service AI Agent
-Functions and Indexes
-Setting Up Customer Service AI Agent
-Using Customer Service AI Agent
+- Customer Service AI Agent
+- Functions and Indexes
+- Setting Up Customer Service AI Agent
+- Using Customer Service AI Agent
 
 ## Chapter 7: Responsible AI Considerations for AI Agents
-Hallucinations in Agentic AI
-Explainability in Agentic AI
-Integrations in Agentic AI
-Compliance in Agentic AI
+- Hallucinations in Agentic AI
+- Explainability in Agentic AI
+- Integrations in Agentic AI
+- Compliance in Agentic AI
 
 ## Chapter 8: Conclusion
-Continuing with Agentic AI
-
-This list covers the key terms and concepts discussed throughout the course.
-
+- Continuing with Agentic AI
                             
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kumaran-ponnambalam?u=104).
 
